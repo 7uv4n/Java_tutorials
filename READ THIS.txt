@@ -1,0 +1,4 @@
+Errors arise due to difference in file name and name of the class where main function is included.
+So it is advised to change name to your wish if any error prompts
+
+Must set path for envioronment variables which you must have known
